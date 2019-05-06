@@ -9,3 +9,5 @@ This repo contain solutions of beginner level problems of Codechef in python
 6. Truth and Dare |<a href="https://www.codechef.com/problems/TRUEDARE" > ProbleM </a>|<a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Truth%20and%20Dare.py" > SolUTion </a> <br>
 7. Ada and the staircase |<a href="https://www.codechef.com/problems/ADASTAIR"> Problem </a>| <a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Ada%20and%20the%20staircase.py">SolutIoN </a> <br>
 8. Testing robots|<a href="https://www.codechef.com/problems/TSTROBOT"> Problem </a>|<a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Testing%20robots.py"> SoLuTioN</a> <br>
+9. Chef and Sequence|<a href="https://www.codechef.com/problems/CHFAR" > Problem</a> | <a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Chef%20and%20sequence.py"> Solution </a>
+10. Valid Stack Operations |<a href="https://www.codechef.com/problems/VALIDSTK"> Problem </a> |<a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Valid%20sTack%20operations.py"> Solution </a>
