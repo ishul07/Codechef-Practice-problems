@@ -12,3 +12,4 @@ This repo contain solutions of beginner level problems of Codechef in python
 9. Chef and Sequence|<a href="https://www.codechef.com/problems/CHFAR" > Problem</a> | <a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Chef%20and%20sequence.py"> Solution </a> <br>
 10. Valid Stack Operations |<a href="https://www.codechef.com/problems/VALIDSTK"> Problem </a> |<a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Valid%20sTack%20operations.py"> Solution </a> <br>
 11. Magic Set |<a href="https://www.codechef.com/problems/MGCSET"> Problem </a>|<a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/Magic%20set.py"> Solution </a> <br>
+12. J-Reached Safely or NOt|<a href="https://www.codechef.com/problems/ZUBREACH"> Problem </a>|<a href="https://github.com/ishul07/Codechef-Practice-problems/blob/master/J%20reached%20safely%20or%20not.py"> Solution </a> <br>
